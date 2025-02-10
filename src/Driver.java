@@ -7,6 +7,8 @@ public class Driver {
 		System.out.println("Our team is getting started");
 		Sad object = new Sad ();
 		object.Sad();
+		Hungry Hun = new Hungry();
+		Hun.hung();
 	}
 
 }
