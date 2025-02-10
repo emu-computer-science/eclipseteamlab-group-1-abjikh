@@ -9,6 +9,8 @@ public class Driver {
 		object.Sad();
 		Hungry Hun = new Hungry();
 		Hun.hung();
+		Glad glad = new Glad();
+		glad.glad();
 	}
 
 }
